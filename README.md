@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @johnny2bcode
 
+<!--
 [![taka's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnny2bcode&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <!---
 johnny2bcode/johnny2bcode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
